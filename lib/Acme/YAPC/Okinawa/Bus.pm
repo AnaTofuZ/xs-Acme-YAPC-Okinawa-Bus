@@ -15,17 +15,17 @@ __END__
 
 =head1 NAME
 
-Acme::YAPC::Okinawa::Bus - It's new $module
+Acme::YAPC::Okinawa::Bus - It's Tweet shere
 
 =head1 SYNOPSIS
 
     use Acme::YAPC::Okinawa::Bus;
     say Acme::YAPC::Okinawa::Bus->time();
-    say Acme::YAPC::Okinawa::Bus->plce();
+    say Acme::YAPC::Okinawa::Bus->place();
 
 =head1 DESCRIPTION
 
-Acme::YAPC::Okinawa::Bus is ...
+Acme::YAPC::Okinawa::Bus is YAPC::Okinawa bus time.
 
 =head1 LICENSE
 
