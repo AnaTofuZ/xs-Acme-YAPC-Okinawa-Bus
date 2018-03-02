@@ -5,6 +5,8 @@ Acme::YAPC::Okinawa::Bus - It's new $module
 # SYNOPSIS
 
     use Acme::YAPC::Okinawa::Bus;
+    say Acme::YAPC::Okinawa::Bus->time();
+    say Acme::YAPC::Okinawa::Bus->plce();
 
 # DESCRIPTION
 

@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/AnaTofuZ/xs-Acme-YAPC-Okinawa-Bus/issues"
+      },
+      "homepage" : "https://github.com/AnaTofuZ/xs-Acme-YAPC-Okinawa-Bus",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/AnaTofuZ/xs-Acme-YAPC-Okinawa-Bus.git",
+         "web" : "https://github.com/AnaTofuZ/xs-Acme-YAPC-Okinawa-Bus"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:ANATOFUZ",
    "x_serialization_backend" : "JSON::PP version 2.27300"
